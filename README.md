@@ -12,3 +12,14 @@ Por ejemplo, la cantidad total de asistencias es dificilmente legible en la tabl
 
 ### Art 3. ¿Que se muestra en tabla creada por mi?
 Se visualizan los datos de asistencia, en esta caso es por dia
+
+## Cuestion 2. Archivo 2, Limpieza de datos
+
+### Art 1. ¿Cual es el contexto de las tablas?
+Se dan los datos de venta en la primera hoja, luego hago un pivot y los filtro
+
+### Art 2. ¿Que se arregle en 'mobility sales data arreglado'?
+Se eliminan repetidos. Se unifican datos como nombre y apellido, velocidad. Otros se separan, como es la direccion. Tambien se pasan tipos, como cambio y medida. Ademas se agregan datos, como cuanto dinero dejo esa venta en especifico
+
+### Art 3. ¿Que hace el pivot?
+Se extraen datos de las ventas, sea por region, fecha o producto. Y se visualizan en sus respectivos graficos
