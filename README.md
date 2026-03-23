@@ -23,3 +23,11 @@ Se eliminan repetidos. Se unifican datos como nombre y apellido, velocidad. Otro
 
 ### Art 3. ¿Que hace el pivot?
 Se extraen datos de las ventas, sea por region, fecha o producto. Y se visualizan en sus respectivos graficos
+
+## Cuestion 3. Archivo 3, Visuaizacion y estadistica
+
+### Art 1. ¿De que trata el archivo?
+Se dan datos de una libreria, tanto sobre mercaderia como las ventas
+
+### Art 2. ¿Que se muestra en "Graficos hecos por mi"?
+Se ven todo tipos de datos respecto a las ventas, como son: Ventas hechas en cuatrimestre o año, ganancia, variaciones en las ventas entre distintos momentos, cantidad de ventas, etc
